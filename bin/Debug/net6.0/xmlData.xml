@@ -1,0 +1,10 @@
+<object name="Ahahah">
+  <properties>
+    <property name="id" type="integer" source="id" />
+    <property name="type" type="string" source="name" />
+    <property name="title" type="string" source="title" />
+    <property name="img" type="string" source="icon" />
+<property name="completed" type="dateTime" source="completed" />
+    <property name="isREAD" type="boolean" source="isRead" />
+  </properties>
+</object>

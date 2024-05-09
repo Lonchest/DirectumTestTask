@@ -1,0 +1,14 @@
+C:\repo\DirectumTestTask\DirectumTestTask\bin\Debug\net6.0\DirectumTestTask.exe
+C:\repo\DirectumTestTask\DirectumTestTask\bin\Debug\net6.0\DirectumTestTask.deps.json
+C:\repo\DirectumTestTask\DirectumTestTask\bin\Debug\net6.0\DirectumTestTask.runtimeconfig.json
+C:\repo\DirectumTestTask\DirectumTestTask\bin\Debug\net6.0\DirectumTestTask.dll
+C:\repo\DirectumTestTask\DirectumTestTask\bin\Debug\net6.0\DirectumTestTask.pdb
+C:\repo\DirectumTestTask\DirectumTestTask\obj\Debug\net6.0\DirectumTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\DirectumTestTask\DirectumTestTask\obj\Debug\net6.0\DirectumTestTask.AssemblyInfoInputs.cache
+C:\repo\DirectumTestTask\DirectumTestTask\obj\Debug\net6.0\DirectumTestTask.AssemblyInfo.cs
+C:\repo\DirectumTestTask\DirectumTestTask\obj\Debug\net6.0\DirectumTestTask.csproj.CoreCompileInputs.cache
+C:\repo\DirectumTestTask\DirectumTestTask\obj\Debug\net6.0\DirectumTestTask.dll
+C:\repo\DirectumTestTask\DirectumTestTask\obj\Debug\net6.0\refint\DirectumTestTask.dll
+C:\repo\DirectumTestTask\DirectumTestTask\obj\Debug\net6.0\DirectumTestTask.pdb
+C:\repo\DirectumTestTask\DirectumTestTask\obj\Debug\net6.0\DirectumTestTask.genruntimeconfig.cache
+C:\repo\DirectumTestTask\DirectumTestTask\obj\Debug\net6.0\ref\DirectumTestTask.dll
